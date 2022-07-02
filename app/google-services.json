@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900945937123",
+    "project_id": "cameragallery-345fc",
+    "storage_bucket": "cameragallery-345fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900945937123:android:0449714eb98df9efc9bbd6",
+        "android_client_info": {
+          "package_name": "com.example.cameragallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900945937123-edkr2ded9d46saf7kafe57j5s1lsogbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe_SkhE3sfz5Pm-Wv5Qcp-0kDz-UOTc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900945937123-edkr2ded9d46saf7kafe57j5s1lsogbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
